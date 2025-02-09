@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645134413240",
+    "firebase_url": "https://rijndael-3a2cd.firebaseio.com",
+    "project_id": "rijndael-3a2cd",
+    "storage_bucket": "rijndael-3a2cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645134413240:android:2f07db24ec2555bb",
+        "android_client_info": {
+          "package_name": "com.rijndael.kraloyun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645134413240-291bql7sork5lql01m2013vhtq9rih9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77SwEIRZN8KedUhfS0n-s6QDKa6ivc2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645134413240-291bql7sork5lql01m2013vhtq9rih9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

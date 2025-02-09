@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">İki Kişilik Oyunlar</string>
+    <string name="title_activity_game_selector">GameSelector</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hizlibaglanti">Quick Links</string>
+
+    <string name="anabaslik">Games</string>
+
+    <string name="alertsoru">Are you sure exit ?</string>
+    <string name="alertbtn1">CANCEL</string>
+    <string name="alertbtn2">OK</string>
+
+    <string name="loadinggame">Game loading...</string>
+
+
+    <string name="soru">Do you want to exit this game?</string>
+    <string name="btn1">CANCEL</string>
+    <string name="btn2">OK</string>
+
+
+    <string name="moregames">More Games</string>
+    <string name="rateus">Rate Us</string>
+    <string name="privacy">Privacy/Policy</string>
+
+
+</resources>
